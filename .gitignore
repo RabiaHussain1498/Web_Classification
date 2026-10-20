@@ -1,0 +1,37 @@
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Scraper & Benchmark Cache
+scrape_cache.json
+
+# Audio Files
+*.ogg
+*.mp3
+WhatsApp Audio*
+
+# Images
+*.jpeg
+*.jpg
+*.png
+WhatsApp Image*
+
+# Excel & Data Files
+*.xlsx
+*.xls
+*.csv
+Finance - Sample List.xlsx
+
+# Guide & Documentation Binary Files
+*.docx
+*.doc
+*.pdf
+AI_Website_Intelligence_Crawler_Requirements_Proposal.docx
+
+# Environment & Local Config
+.env
+.venv/
+env/
+venv/
